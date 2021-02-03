@@ -136,14 +136,14 @@ String [] s = {
   "Ar an 3ú Samhain, 1957 lainseáladh Sputnik II agus Kudryavka amach sa spás. Craol braiteoirí ceangailte lena chorp eolas ar ais chun na cruinne. ", 
   "Ag ard phointe an luasghéarú, d'ardaigh a riospráid idir x3 agus x4 a ghnáth leibhéal. D'ardaigh a croi-ráta ó 103p/n go 240p/n. Bhí 3 uair a chloig ann go chiúnaigh an ráta sin arís. D'ardaigh teocht an cró go 40 céim Celsius.", 
   "Blianta ina dhiaidh sin, dúirt Yevdovski:    'Tá brón orm, le himeacht ama. Níorbh fiú bás an madra ar mhaithe lena d'foghlaimar.'", 
-  "Cén mothúchán a spreagann a leithead fhulaingt ionainn? Uafás? Trua? An féidir linn a leithead d'eagla a samhlú? B'fhéidir go gcuireann bás an madra brón, nó fearg ort. Tá cumas comhbhrón ag formhór dúinn. Is tobar maitheas an cinne daonna iad; comhbhrón, atrua agus tuisceanacha.", 
-  "Bhí saol Kudryavka gairid, agus a bháis doshamhlaithe uafásach. In ainneoin sin, míle uair níos fearr é ná beatha na beithíoch eile a ithimid agus atá mar ábhar turgnamh i gnáthamh an lae.", 
-  "Más féidir comhbhrón le Kudryavka, is féidir comhbhrón leis na ba, caoirigh, sicíní agus muc:    créatúir le mothúchán iad nach bhfuil puinn éagsúil ó Kudryavka; faoi fulaingt do-chríochnaithe ó breith go conaphian bás", 
+  "Tá cumas comhbhrón ag formhór dúinn. Is tobar maitheas an cinne daonna iad; comhbhrón, atrua agus tuisceanacha.", 
+  "Cad faoi na muic agus íasc a ithimid i gnáthamh an lae.", 
+  "Más féidir comhbhrón le Kudryavka, is féidir comhbhrón leis na créatúir aig a bhfuil mothúchán acú agus dearca ar an saol nach bhfuil puinn éagsúil ó Kudryavka; faoi úfáis agus faoi baol go conaphian bás", 
   "namá pléisiúr sciorrach blas a gcarna.", 
-  "Le do thoil. Ná samhlaigh gur riocht samhalta é; nó nach fíor a fhulaingt. Seo í an fírinne.  Tá seo ag tarlú. Agus sinn, an cinne daonna, le cumas tuisceanach thar comparáid:", 
+  "Seo í an fírinne.  Tá seo ag tarlú. Agus sinn, an cinne daonna, le cumas tuisceanach thar comparáid:", 
   "Tá muid níos fear ná seo.", 
-  " ", 
-  " ", 
+  
+  
   
 };
 
